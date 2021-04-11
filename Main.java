@@ -1,9 +1,9 @@
-package helloWorld;
+package stopWatch;
 
 public class Main {
 
 	public static void main(String[] args) {
-		new JButtonTutorial();
+		Stopwatch stopwatch = new Stopwatch();
 
 	}
 
